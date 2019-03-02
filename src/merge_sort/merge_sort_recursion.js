@@ -37,6 +37,6 @@ function merge (left, right) {
 
 	// We need to concat to the resultArray because there will be one element left over after the while loop
 	return resultArray
-			.concat(left.slice(leftIndex))
-			.concat(right.slice(rightIndex));
+		.concat(left.slice(leftIndex))
+		.concat(right.slice(rightIndex));
 }
