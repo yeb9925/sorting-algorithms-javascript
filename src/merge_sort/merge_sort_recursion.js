@@ -1,4 +1,6 @@
+// 
 // Merge Sort Implentation (Recursion)
+//
 
 function mergeSort (unsortedArray) {
 	// No need to sort the array if the array only has one element or empty
