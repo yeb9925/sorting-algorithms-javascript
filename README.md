@@ -4,6 +4,7 @@ Collection of sorting algorithms in JavaScript.
 
 ## List
 
+* Bubble Sort
 * Merge Sort (Recursion)
 
 ## Author
