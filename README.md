@@ -4,8 +4,8 @@ Collection of sorting algorithms in JavaScript.
 
 ## List
 
-* Bubble Sort
-* Merge Sort (Recursion)
+* [Bubble Sort](https://github.com/yeb9925/sorting-algorithms/tree/master/src/bubble_sort)
+* [Merge Sort](https://github.com/yeb9925/sorting-algorithms/tree/master/src/merge_sort) (Recursion)
 
 ## Author
 
