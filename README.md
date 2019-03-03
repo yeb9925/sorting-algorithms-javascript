@@ -6,6 +6,7 @@ Collection of sorting algorithms in JavaScript.
 
 * [Bubble Sort](https://github.com/yeb9925/sorting-algorithms/tree/master/src/bubble_sort)
 * [Merge Sort](https://github.com/yeb9925/sorting-algorithms/tree/master/src/merge_sort) (Recursion)
+* [Selection Sort](https://github.com/yeb9925/sorting-algorithms/tree/master/src/selection_sort)
 
 ## Author
 

@@ -11,7 +11,7 @@ function bubbleSort (unsortedArray) {
     for (let j = 0; j < (unsortedArray.length - i - 1); j++) {
       // Swap if the element is larger than the element right next to it
       if (unsortedArray[j] > unsortedArray[j+1]) {
-        [unsortedArray[j], unsortedArray[j+1]] = [unsortedArray[j+1], unsortedArray[j]]; // ES6
+        [unsortedArray[j], unsortedArray[j+1]] = [unsortedArray[j+1], unsortedArray[j]]; // ES6 Swap
       }
     }
   }
